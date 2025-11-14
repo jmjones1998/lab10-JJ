@@ -1,4 +1,4 @@
-#https://github.com/jmjones1998/lab10-JJ.git
+#https://github.com/jmjones1998/lab11-JJ-JJ
 #Partner 1: Julia Jones
 #Partner 2: Julia Jones
 
