@@ -4,7 +4,8 @@ calculator.py
 
 One function per operation, in order.
 """
-
+#https://github.com/jmjones1998/lab10-JJ.git
+#Partner 1 and 2: Julia Jones
 
 import math
 
@@ -39,6 +40,7 @@ def div(a,b):
 def logarithm(a,b):
     if a<= 0 or b<= 0 or b == 1:
         raise ZeroDivisionError
+    return math.log(a,b)
 
 def exp(a,b):
     return a**b
